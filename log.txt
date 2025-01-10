@@ -1,2 +1,7 @@
 log
+<<<<<<< HEAD
 update change
+=======
+loggg changes 
+again changes
+>>>>>>> 7bcf80e4c8d6c510013f96c168f42cfdce89b990
